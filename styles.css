@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	background-color:gray;
+	
+}
+.main{
+	width:600px;
+}
+.img{
+	width:200px;
+}
+.content{
+	width: 600px;
+}
